@@ -1,0 +1,47 @@
+
+.contenedor-juego{
+    width:1170px;
+    height:368 ;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%) ;
+}
+
+.imagen-juego{
+    height: 100%;
+    width: auto;
+}
+
+.contenedor-texto-juego{
+    text-align: center;
+    padding: 40px;
+    font-family: 'Libre Baskerville';
+    font-weight: 400;
+    line-height: 1.5rem;
+
+}
+
+.nombre-juego-año{
+    font-size: 1.4rem;
+    font-weight: bold;
+
+}
+
+.descripcion-corta{
+    font-size: 1.2rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+
+
+}
+
+.descripcion-larga{
+    font-size: 1rem;
+    text-align: justify;
+    font-style: italic;
+
+}
+
